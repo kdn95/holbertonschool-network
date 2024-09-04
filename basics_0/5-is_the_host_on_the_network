@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# ping an address 5 times max
 ping "$1" -c 5
